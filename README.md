@@ -1,8 +1,6 @@
 ## php - 101
 ### Asignaciones para practicar php, programas basicos pero con buena logica.
 
-- 
-
 <?php
 
     include_once("./php/plantilla_cabeza.php");
@@ -10,7 +8,7 @@
 ?>
 
 <head><link rel="stylesheet" href="./Css/style.css"></head>
-<h1 class="container">Curso de PHP</h1>
+<h4 class="container">Curso de PHP</h4>
 <hr>
 
 <header>
@@ -38,8 +36,6 @@
     include_once("./php/plantilla_pie.php");
 
 ?>
-
--
 
 
 
