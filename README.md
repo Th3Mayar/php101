@@ -8,7 +8,6 @@
 ?>
 
 <head><link rel="stylesheet" href="./Css/style.css"></head>
-<h4 class="container">Curso de PHP</h4>
 <hr>
 
 <header>
