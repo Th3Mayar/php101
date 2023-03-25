@@ -1,0 +1,59 @@
+input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+label {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+select {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+header {
+    background: rgba(0,0,0,0.7);
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+}
+
+.container{
+    background: #fff;
+    width: 100%;
+    position: relative;
+    z-index: 100;
+}
+
+nav {
+    float: left;
+}
+
+nav ul {
+    list-style: none;
+    overflow: hidden; 
+}
+
+nav ul li {
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;;
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+nav ul li a {
+    display: block; 
+    padding: 18px;
+    color: #fff;
+    text-decoration: none;
+}
+
+nav ul li:hover {
+    background: darkcyan;
+}
