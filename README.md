@@ -13,9 +13,9 @@
 <header>
     <nav>
         <ul>
-            <li><a href="./SEMANA01/index.php">Semana 01: Conceptos Basicos</a></li>
-            <li><a href="./SEMANA02/indexCondicionales.php">Semana 02: Condicionales y ciclos</a></li>
-            <li><a href="./SEMANA03/indexCiclos.php">Semana 03: Funciones en PHP</a></li>
+            <li><a href="./SEMANA01/index.md">Semana 01: Conceptos Basicos</a></li>
+            <li><a href="./SEMANA02/indexCondicionales.md">Semana 02: Condicionales y ciclos</a></li>
+            <li><a href="./SEMANA03/indexCiclos3.md">Semana 03: Funciones en PHP</a></li>
         </ul>
     </nav>
 </header>
