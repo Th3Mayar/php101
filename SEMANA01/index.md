@@ -16,7 +16,6 @@ include_once("../php/plantilla_cabeza.php");
     <p><img src="../IMG/Basic concept.PNG" alt=""></p>
     <li><a href="#">¿Cuál es la utilidad de las siguientes sentencias en PHP y las diferencias existentes entre 
     las mismas y muestre ejemplos:</a></li></br>
-
     <ul><li>Require</li>
     <p>Require es idéntico a include, excepto que en caso de falla, también producirá un error fatal de nivel E_COMPILE_ERROR. En otras palabras, detendrá el script mientras que include solo emite una advertencia (E_WARNING) que permite que el script continúe.</p>
     <img src="../IMG/Require.PNG" alt="">
@@ -35,7 +34,6 @@ include_once("../php/plantilla_cabeza.php");
     <img src="../IMG/Include Once.PNG" alt="">
     </ul>
     </br>
-
     <li><a href="#">¿Cuáles son los errores (Exception) más comunes en PHP y como se pueden controlar?</a></li></br>
         <ol>
             <li><b>'ParseError'</b>: Este error ocurre cuando PHP no puede analizar correctamente el código. Puede ocurrir cuando hay errores de sintaxis, falta de punto y coma, o problemas con el uso de comillas. Este error no puede ser controlado.</li>
@@ -50,7 +48,6 @@ include_once("../php/plantilla_cabeza.php");
             <img src="../IMG/ERROR.PNG" alt="">
         </ol>
         <br>
-
     <li><a href="#">¿Qué son funciones de URL?</a></li><br>
     <p>Las funciones de URL en PHP y HTML son aquellas que permiten trabajar con URLs (Uniform Resource Locators) o direcciones web de forma más fácil y eficiente.</p>
     <ul><li>base64_decode()</li>
